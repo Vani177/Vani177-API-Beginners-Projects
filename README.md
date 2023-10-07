@@ -27,7 +27,7 @@ Let's embark on this journey in the world of APIs together~
 4. [Community and Feedback](#feedback)
 5. [License](#license)
 6. [Author](#author)
-8. [Contributors](#contributors)
+7. [Contributors](#contributors)
 
  <a name="intro"></a>
 
